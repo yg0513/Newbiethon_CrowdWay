@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+cache/
+work/
+*.pyc
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
