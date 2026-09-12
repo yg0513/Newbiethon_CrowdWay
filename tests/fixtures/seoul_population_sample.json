@@ -1,0 +1,16 @@
+{
+  "SeoulRtd.citydata_ppltn": [
+    {
+      "AREA_NM": "광화문·덕수궁",
+      "AREA_CD": "POI009",
+      "AREA_CONGEST_LVL": "보통",
+      "AREA_CONGEST_MSG": "사람이 몰려있을 수 있지만 크게 붐비지는 않아요. 도보 이동에 큰 제약이 없어요.",
+      "PPLTN_TIME": "2026-09-12 15:40",
+      "REPLACE_YN": "N"
+    }
+  ],
+  "RESULT": {
+    "RESULT.CODE": "INFO-000",
+    "RESULT.MESSAGE": "정상 처리되었습니다."
+  }
+}
